@@ -2,7 +2,6 @@
 
 import 'package:athena/components/transitions.dart';
 import 'package:athena/screens/guide1_screen.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class WelcomeScreen extends StatefulWidget {
