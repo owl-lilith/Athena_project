@@ -1,1 +1,1 @@
-add the laravel project here
+clone this  folder to VS code and you're all set ( ͡° ͜ʖ ͡°)
