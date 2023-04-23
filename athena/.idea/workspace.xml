@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1904635-8271-4d29-bc23-a163ad393099" name="Default Changelist" comment="- created the following:&#10;  _ components folder&#10;  _ screens folder&#10;  &#10;- I made a base structure for the first few screens" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Opo4BRnmTx7HSiJdLTZH3j4wXp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Frontend DevLine/athena" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ccsmu\Documents\GitHub\Athena_project\athena\assets\fonts" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1904635-8271-4d29-bc23-a163ad393099" name="Default Changelist" comment="" />
+      <created>1682266725127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682266725127</updated>
+    </task>
+    <task id="LOCAL-00001" summary="changed the title :)">
+      <created>1682267223076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682267223076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="- created the following:&#10;  _ components folder&#10;  _ screens folder&#10;  &#10;- I made a base structure for the first few screens">
+      <created>1682270772656</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682270772656</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="changed the title :)" />
+    <MESSAGE value="- created the following:&#10;  _ components folder&#10;  _ screens folder&#10;  &#10;- I made a base structure for the first few screens" />
+    <option name="LAST_COMMIT_MESSAGE" value="- created the following:&#10;  _ components folder&#10;  _ screens folder&#10;  &#10;- I made a base structure for the first few screens" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="226" y="295" key="FileChooserDialogImpl" timestamp="1682272575014">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="226" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1682272575014" />
+    <state width="1379" height="295" key="GridCell.Tab.0.bottom" timestamp="1682270899216">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1379" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1682270899216" />
+    <state width="1379" height="295" key="GridCell.Tab.0.center" timestamp="1682270899215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1379" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1682270899215" />
+    <state width="1379" height="295" key="GridCell.Tab.0.left" timestamp="1682270899215">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1379" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1682270899215" />
+    <state width="1379" height="295" key="GridCell.Tab.0.right" timestamp="1682270899216">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1379" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1682270899216" />
+  </component>
+</project>
