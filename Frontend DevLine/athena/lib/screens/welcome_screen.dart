@@ -26,25 +26,41 @@ class _WelcomeScreenState extends State<WelcomeScreen> {
             ),
           ),
           Positioned(
-            left: mediaQuery.size.width * 0.5 - 25,
+            left: mediaQuery.size.width * 0.5 - 75,
             top: mediaQuery.size.height * 0.88,
             child: Hero(
               tag: "next",
-              child: IconButton(
+              child: TextButton(
                 style: ButtonStyle(
+                  fixedSize: MaterialStateProperty.all(Size(150, 40)),
                   shape: MaterialStateProperty.all(
-                    CircleBorder(
+                    RoundedRectangleBorder(
                       side: BorderSide(width: 2),
+                      borderRadius: BorderRadius.circular(15),
+
                     ),
                   ),
                 ),
                 onPressed: () {
                   Navigator.of(context).push(slideTransitionTo(Guide1Screen()));
                 },
-                icon: Icon(
-                  Icons.arrow_forward_outlined,
-                  size: 35,
+                child: Text(
+                    "Get Started",
+                  style: TextStyle(color: Colors.black),
+                  maxLines: 1,
                 ),
+              ),
+            ),
+          ),
+          Positioned(
+            left: mediaQuery.size.width / 2 - 150,
+            top: 50,
+            child: Hero(
+              tag: "logo",
+              child: Image.asset(
+                "assets/images/athena_logo.png",
+                height: 300,
+                width: 300,
               ),
             ),
           )

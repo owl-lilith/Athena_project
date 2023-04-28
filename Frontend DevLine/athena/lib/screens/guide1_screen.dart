@@ -48,6 +48,18 @@ class _Guide1ScreenState extends State<Guide1Screen> {
                 ),
               ),
             ),
+          ),
+          Positioned(
+            left: mediaQuery.size.width - 150,
+            top: 50,
+            child: Hero(
+              tag: "logo",
+              child: Image.asset(
+                "assets/images/athena_logo.png",
+                height: 150,
+                width: 150,
+              ),
+            ),
           )
         ],
       ),
